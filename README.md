@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=douglas-coder&label=Profile%20views&color=0e75b6&style=flat" alt="douglas-coder" /> </p>
 
+- Discord **_dagurasu_**
 - 📫 How to reach me **douglasjaramillogonzalez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
